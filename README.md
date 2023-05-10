@@ -1,7 +1,7 @@
 # Reinforcement Learning Library Activity Tracker
 This repository tracks active Reinforcement Learning libraries, that you can depend on for research and production code.
 Any new libaries should implement a large number of RL algorithms and have benchmarks to get added to this list.
-This list is not for research code, single algorithms, benchmarks, or RL environments (except Gymnasium).
+This list is not for research code, single algorithms, benchmarks, dated DL backends, or RL environments (except Gymnasium).
 
 Table generated from this [google sheets](https://docs.google.com/spreadsheets/d/174W7V1W-dZAnW3mAcjZ9YIZzbfgfighcbNnsP6mMm98/edit?usp=sharing).
 Inactive, unmaintained, or outdated repositories will be removed.
